@@ -1,4 +1,4 @@
-package main
+package imageimporter
 
 type Imgimporter struct {
 }
