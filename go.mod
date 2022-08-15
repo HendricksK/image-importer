@@ -1,3 +1,3 @@
-module github.com/HendricksK/img-importer
+module github.com/HendricksK/image-importer
 
 go 1.19
